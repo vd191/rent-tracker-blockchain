@@ -1,5 +1,7 @@
 # A Very Simple Bockchain For Tracking Rent Payment
 
+This repo followed tutorial from: https://github.com/codehakase/blockchain-golang-tutorial
+
 ## Installation
 Clone Repository
 ```
