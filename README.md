@@ -23,16 +23,12 @@ Store the renter payment to block
 ## Or with cURL
 Create a new renter
 ```
-$ curl -X POST http://localhost:3000/new 
-  -H "Content-Type: application/json" 
-  -d '{"name":"Na Na", "join_date":"2019-17-04"}'
+$ curl -X POST http://localhost:1911/new -H "Content-Type: application/json" -d '{"name":"Na Na", "join_date":"2019-17-04"}'
 ```
 
 Create a new block with payment date
 ```
-$ curl -X POST http://localhost:3000
-  -H "Content-Type: application/json" 
-  -d '{"renter":"Na Na", "pay_date":"2019-18-04"}'
+$ curl -X POST http://localhost:1911 -H "Content-Type: application/json" -d '{"renter":"Na Na", "pay_date":"2019-18-04"}'
 ```
 
 All blocks are also recorded at http://localhost:1911
