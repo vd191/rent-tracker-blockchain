@@ -1,4 +1,4 @@
-# A Very Simple Bockchain For Tracking Rent Income
+# A Very Simple Bockchain For Tracking Rent Payment
 
 ## Installation
 Clone Repository
