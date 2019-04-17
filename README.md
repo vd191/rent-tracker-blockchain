@@ -15,7 +15,7 @@ go run app.go
 Create a new renter
 ![Imgur](https://i.imgur.com/N23Jz31.png)
 
-Then record the payment date to BlockChain
+Store the renter payment to block
 ![Imgur](https://i.imgur.com/8zFPvkY.png)
 
 ## Or with cURL
